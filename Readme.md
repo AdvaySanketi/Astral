@@ -15,7 +15,7 @@
 
 ## 📸 **Screenshots**
 
-![Astral Screenshot](content/astral.png)
+![Astral Screenshot](astral.png)
 
 ---
 
